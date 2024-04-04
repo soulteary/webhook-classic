@@ -1,3 +1,10 @@
+# 新的项目地址
+
+- **项目迁移至 [https://github.com/soulteary/webhook](https://github.com/soulteary/webhook), 更健壮，更稳定，更纯净。**
+- **move to https://github.com/soulteary/webhook , more robust, more stable and clean.**
+
+-----
+
 # 什么是 WebHook (歪脖虎克)?
 
 ![build-status][badge] [![Go Report Card](https://goreportcard.com/badge/github.com/soulteary/webhook)](https://goreportcard.com/report/github.com/soulteary/webhook)
